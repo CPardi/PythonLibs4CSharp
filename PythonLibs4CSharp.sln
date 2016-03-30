@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{5B3589B3-17C2-4B7F-9C8F-05D495611978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pygments", "Pygments\Pygments.csproj", "{3CEF7662-C253-4CC5-9A5C-9AE5F9896BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown", "Markdown\Markdown.csproj", "{C7FDA629-DAE6-4174-B91A-5FC0D745E21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonLibs4CSharp", "PythonLibs4CSharp\PythonLibs4CSharp.csproj", "{68396BBE-5630-4F1F-970C-8F953602EB8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3589B3-17C2-4B7F-9C8F-05D495611978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3589B3-17C2-4B7F-9C8F-05D495611978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3589B3-17C2-4B7F-9C8F-05D495611978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3589B3-17C2-4B7F-9C8F-05D495611978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEF7662-C253-4CC5-9A5C-9AE5F9896BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEF7662-C253-4CC5-9A5C-9AE5F9896BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEF7662-C253-4CC5-9A5C-9AE5F9896BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEF7662-C253-4CC5-9A5C-9AE5F9896BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FDA629-DAE6-4174-B91A-5FC0D745E21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FDA629-DAE6-4174-B91A-5FC0D745E21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FDA629-DAE6-4174-B91A-5FC0D745E21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FDA629-DAE6-4174-B91A-5FC0D745E21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68396BBE-5630-4F1F-970C-8F953602EB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68396BBE-5630-4F1F-970C-8F953602EB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68396BBE-5630-4F1F-970C-8F953602EB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68396BBE-5630-4F1F-970C-8F953602EB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
